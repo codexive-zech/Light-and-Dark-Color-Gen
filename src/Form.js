@@ -22,7 +22,7 @@ const Form = () => {
             value={colorValue}
             onChange={(e) => setColorValue(e.target.value)}
             className={`${isError ? "error" : null}`}
-            placeholder="e.g #ccc"
+            placeholder="e.g   #FFC0CB"
           />
 
           <button type="submit" className="btn">
