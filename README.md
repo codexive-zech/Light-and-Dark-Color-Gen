@@ -1,7 +1,9 @@
-# Getting Started with Light and Dark Color Generator
+# Getting Started with Tints and Shades Colors Generator
 
-## Tints and Shades Colors
 Tints are lighter versions of the color that are made by mixing a color with white, whereas shades are darker versions of the color that are made by mixing a color with black. 
+
+![Tint and Shades Color Generator - Front](https://user-images.githubusercontent.com/56152847/177750720-55a9e317-7e02-4996-a9ea-d915c53ad1ae.png)
+![Tint and Shades Color Generator - colors](https://user-images.githubusercontent.com/56152847/177750760-e08e3e35-2b69-4670-8285-f8318b00c378.png)
 
 ## How to Use the Tints and Shades Color Generator?
 1. Enter value of your color in textbox above in RGB format 
