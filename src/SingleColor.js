@@ -25,7 +25,14 @@ const SingleColor = ({ rgb, weight, index, hexColor }) => {
     >
       <p className="percent-value">{weight}%</p>
       <p className="color-value">{hexColorValue}</p>
-      {alert && <p>Copied To Clipboard</p>}
+      {alert && (
+        <p
+          className={`${index > 10 ? "clipboard" : null} `}
+          style={{ textAlign: "center" }}
+        >
+          Copied To Clipboard
+        </p>
+      )}
     </article>
   );
 };
