@@ -2,6 +2,8 @@
 
 Tints are lighter versions of the color that are made by mixing a color with white, whereas shades are darker versions of the color that are made by mixing a color with black. 
 
+### URL - https://lightanddarkcolorgen.netlify.app/
+
 ![Tint and Shades Color Generator - Front](https://user-images.githubusercontent.com/56152847/177750720-55a9e317-7e02-4996-a9ea-d915c53ad1ae.png)
 ![Tint and Shades Color Generator - colors](https://user-images.githubusercontent.com/56152847/177750760-e08e3e35-2b69-4670-8285-f8318b00c378.png)
 
